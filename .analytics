@@ -1,0 +1,5 @@
+timestamp=[2022-04-16 18:39:31], mode=WORKBENCH_START, duration=0:00:10.174, duration_ms=10174, data={}
+timestamp=[2022-04-16 18:39:32], mode=WORKBENCH_UI_INIT, duration=0:00:01.063, duration_ms=1063, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-04-16 18:39:35], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.110, duration_ms=110, data={}
+timestamp=[2022-04-16 18:46:47], mode=APP_CREATION, duration=0:00:10.571, duration_ms=10571, data={name=lab1-5dot3, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=microblaze_wrapper, application_type=application}
+timestamp=[2022-04-16 19:16:16], mode=APP_CREATION, duration=0:00:02.446, duration_ms=2446, data={name=olwa, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=microblaze_wrapper, application_type=application}

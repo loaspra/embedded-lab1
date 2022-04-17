@@ -1,0 +1,770 @@
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-04-16.18:46:37::SCWPlatform::Opened new HwDB with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-04-16.18:46:37::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper"
+		}]
+}
+TRACE::2022-04-16.18:46:37::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-04-16.18:46:37::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2022-04-16.18:46:37::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper"
+		}]
+}
+TRACE::2022-04-16.18:46:37::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper"
+		}]
+}
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:37::SCWDomain::checking for install qemu data   : 
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:37::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:37::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-04-16.18:46:37::SCWMssOS::No sw design opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::mss does not exists at C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::Creating sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::Adding the swdes entry, created swdb C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::Writing mss at C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:37::SCWMssOS::Completed writing the mss file at C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2022-04-16.18:46:37::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-16.18:46:37::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-04-16.18:46:37::SCWMssOS::Completed writing the mss file at C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2022-04-16.18:46:38::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Saving the mss changes C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2022-04-16.18:46:43::SCWMssOS::Writing the mss file completed C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Commit changes completed.
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"f70e5203d7846ad05d5d09f9b12de978",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-04-16.18:46:43::SCWPlatform::Started generating the artifacts platform microblaze_wrapper
+TRACE::2022-04-16.18:46:43::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-04-16.18:46:43::SCWPlatform::Started generating the artifacts for system configuration microblaze_wrapper
+LOG::2022-04-16.18:46:43::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2022-04-16.18:46:43::SCWSystem::Not a boot domain 
+LOG::2022-04-16.18:46:43::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2022-04-16.18:46:43::SCWDomain::Generating domain artifcats
+TRACE::2022-04-16.18:46:43::SCWMssOS::Generating standalone artifcats
+TRACE::2022-04-16.18:46:43::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Completed writing the mss file at C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2022-04-16.18:46:43::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-04-16.18:46:43::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-04-16.18:46:43::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2022-04-16.18:46:43::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-04-16.18:46:43::SCWMssOS::Copying to export directory.
+TRACE::2022-04-16.18:46:43::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-04-16.18:46:43::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-04-16.18:46:43::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2022-04-16.18:46:43::SCWSystem::Completed Processing the sysconfig microblaze_wrapper
+LOG::2022-04-16.18:46:43::SCWPlatform::Completed generating the artifacts for system configuration microblaze_wrapper
+TRACE::2022-04-16.18:46:43::SCWPlatform::Started preparing the platform 
+TRACE::2022-04-16.18:46:43::SCWSystem::Writing the bif file for system config microblaze_wrapper
+TRACE::2022-04-16.18:46:43::SCWSystem::dir created 
+TRACE::2022-04-16.18:46:43::SCWSystem::Writing the bif 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Started writing the spfm file 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Completed generating the platform
+TRACE::2022-04-16.18:46:43::SCWMssOS::Saving the mss changes C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Commit changes completed.
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"f70e5203d7846ad05d5d09f9b12de978",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-04-16.18:46:43::SCWPlatform::updated the xpfm file.
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Saving the mss changes C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Commit changes completed.
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"f70e5203d7846ad05d5d09f9b12de978",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Saving the mss changes C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Commit changes completed.
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"f70e5203d7846ad05d5d09f9b12de978",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-04-16.18:46:43::SCWPlatform::Started generating the artifacts platform microblaze_wrapper
+TRACE::2022-04-16.18:46:43::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-04-16.18:46:43::SCWPlatform::Started generating the artifacts for system configuration microblaze_wrapper
+LOG::2022-04-16.18:46:43::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2022-04-16.18:46:43::SCWDomain::Generating domain artifcats
+TRACE::2022-04-16.18:46:43::SCWMssOS::Generating standalone artifcats
+TRACE::2022-04-16.18:46:43::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Completed writing the mss file at C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2022-04-16.18:46:43::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-04-16.18:46:43::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-04-16.18:46:43::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2022-04-16.18:46:43::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-04-16.18:46:43::SCWMssOS::Copying to export directory.
+TRACE::2022-04-16.18:46:43::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-04-16.18:46:43::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-04-16.18:46:43::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2022-04-16.18:46:43::SCWSystem::Completed Processing the sysconfig microblaze_wrapper
+LOG::2022-04-16.18:46:43::SCWPlatform::Completed generating the artifacts for system configuration microblaze_wrapper
+TRACE::2022-04-16.18:46:43::SCWPlatform::Started preparing the platform 
+TRACE::2022-04-16.18:46:43::SCWSystem::Writing the bif file for system config microblaze_wrapper
+TRACE::2022-04-16.18:46:43::SCWSystem::dir created 
+TRACE::2022-04-16.18:46:43::SCWSystem::Writing the bif 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Started writing the spfm file 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-04-16.18:46:43::SCWPlatform::Completed generating the platform
+TRACE::2022-04-16.18:46:43::SCWMssOS::Saving the mss changes C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-04-16.18:46:43::SCWMssOS::Commit changes completed.
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to open the hw design at C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA given C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA absoulate path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform::DSA directory C:/Users/olapu/5.3/microblaze_wrapper/hw
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Platform Path C:/Users/olapu/5.3/microblaze_wrapper/hw/microblaze_wrapper.xsa
+TRACE::2022-04-16.18:46:43::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Trying to set the existing hwdb with name microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Opened existing hwdb microblaze_wrapper_0
+TRACE::2022-04-16.18:46:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-04-16.18:46:43::SCWMssOS::Checking the sw design at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWMssOS::DEBUG:  swdes dump  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-04-16.18:46:43::SCWMssOS::Sw design exists and opened at  C:/Users/olapu/5.3/microblaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2022-04-16.18:46:43::SCWWriter::formatted JSON is {
+	"platformName":	"microblaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"microblaze_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/microblaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"microblaze_wrapper",
+	"systems":	[{
+			"systemName":	"microblaze_wrapper",
+			"systemDesc":	"microblaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"microblaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.6",
+					"mssFile":	"",
+					"md5Digest":	"f70e5203d7846ad05d5d09f9b12de978",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-04-16.18:46:43::SCWPlatform::updated the xpfm file.

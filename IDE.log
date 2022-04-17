@@ -1,0 +1,13 @@
+18:39:33 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\olapu\5.3\temp_xsdb_launch_script.tcl
+18:39:35 INFO  : Registering command handlers for Vitis TCF services
+18:39:35 INFO  : Platform repository initialization has completed.
+18:39:38 INFO  : XSCT server has started successfully.
+18:39:38 INFO  : plnx-install-location is set to ''
+18:39:38 INFO  : Successfully done setting XSCT server connection channel  
+18:39:38 INFO  : Successfully done query RDI_DATADIR 
+18:39:38 INFO  : Successfully done setting workspace for the tool. 
+18:46:43 INFO  : Result from executing command 'getProjects': microblaze_wrapper
+18:46:43 INFO  : Result from executing command 'getPlatforms': 
+18:46:43 WARN  : An unexpected exception occurred in the module 'platform project logging'
+18:46:43 INFO  : Platform 'microblaze_wrapper' is added to custom repositories.
+18:46:47 INFO  : Platform 'microblaze_wrapper' is added to custom repositories.
